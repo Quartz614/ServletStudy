@@ -106,7 +106,7 @@ public class RequestHeaderServlet extends HttpServlet {
                 request.getLocalAddr()); //
         System.out.println("request.getLocalPort() = " +
                 request.getLocalPort()); //
-        System.out.println("--- 기타 조회 end ---");
+        System.out.println("--- 기타 조회 end  ---");
         System.out.println();
     }
 }
